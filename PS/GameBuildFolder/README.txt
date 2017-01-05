@@ -1,0 +1,1 @@
+The BuildFolder contains a runnable jar version of the game application PineSweeper. This game can be either by double clicking on the jar file or via bash terminal by executing line 'java -jar PineSweeper.jar'
